@@ -1,5 +1,5 @@
 
 # LGMVIP-DataScience
 This repository contains all my Data Science Internship tasks given by LGM.
-- This is my personal repository
+- This work is only for Lets Grow More (LGM)
 - Copying or changing code is not allowed
